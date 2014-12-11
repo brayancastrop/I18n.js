@@ -1,0 +1,22 @@
+{
+  "name": "I18n.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/brayancastrop/I18n.js",
+  "authors": [
+    "Brayan Castro P <brayancastrop@gmail.com>"
+  ],
+  "description": "Simple I18n javascript library",
+  "keywords": [
+    "i18n",
+    "js",
+    "internationalization"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
